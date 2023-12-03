@@ -1,6 +1,7 @@
 # ELTHRA AI - Image Text Extractor
 
 ELTHRA AI is a simple React application that allows users to upload an image and extract text content using Optical Character Recognition (OCR) powered by Tesseract.js. The extracted text can be viewed on the web interface and downloaded as a text file.
+Page Link:https://ocr-web-8a3c3.web.app/
 
 ## Getting Started
 
